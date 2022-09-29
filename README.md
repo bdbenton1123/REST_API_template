@@ -3,6 +3,8 @@ Django REST API template for default authentication backend.
 
 This is a Django project with a REST API application for user authentication data.
 
+It is designed to speed up the process of creating REST APIs for Django projects for developers.
+
 You can integrate the app into your existing Django project to manage/view/extend user data to other apps.
 
 To integrate into your existing Django project:
