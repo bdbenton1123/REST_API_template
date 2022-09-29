@@ -17,5 +17,5 @@ To serialize additional/custom Django models to your API
 
 1. Duplicate classes in serializers.py in the "authentication_API" app
 2. Rename class names, "model" values, and "fields" values accordingly
-3. Duplicate clases in views.py in the "authentication_API" app
+3. Duplicate classes in views.py in the "authentication_API" app
 4. Change "queryset" values and "serializer_class" values accordingly
