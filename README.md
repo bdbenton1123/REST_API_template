@@ -15,7 +15,7 @@ To integrate into your existing Django project:
 4. Add REST API interface to your urlpatterns in urls.py (lines 11-12 in urls.py)
 5. Modify first argument in line 11 to your desired REST API interface URL path
 
-To serialize additional/custom Django models to your API
+To serialize additional/custom Django models to your API:
 
 1. Duplicate classes in serializers.py in the "authentication_API" app
 2. Rename class names, "model" values, and "fields" values accordingly
